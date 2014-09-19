@@ -1,0 +1,22 @@
+{
+  "name": "Frontend",
+  "description": "Frontend project code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Chong",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-browserify": "^3.0.1",
+    "grunt-contrib-uglify": "^0.6.0"
+  },
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "jquery": "^2.1.1",
+    "underscore": "^1.7.0"
+  }
+}
